@@ -1,7 +1,5 @@
 # addNumbers
 
----
-
 ## Directions
 
 - Build: run "npm run build:dev"
